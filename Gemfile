@@ -11,4 +11,4 @@ end
 gem "webrick", "~> 1.7"
 
 gem "rake"
-ruby "3.0.3"
+# ruby "3.0.3"
